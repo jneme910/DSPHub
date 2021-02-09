@@ -1,0 +1,12 @@
+name: ISHI_app
+title: ISHI_app
+username:
+account: paparker
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2526354
+bundleId: 3340361
+url: https://paparker.shinyapps.io/ISHI_app/
+when: 1593630619.78984
+asMultiple: FALSE
+asStatic: FALSE
